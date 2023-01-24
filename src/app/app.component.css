@@ -1,0 +1,22 @@
+:host {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.black {
+    color: black;
+}
+
+.hide{
+    display: none;
+}
